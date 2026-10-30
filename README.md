@@ -1,2 +1,2 @@
 # jahmia.github.io
-Jahmia Page
+Jahmia [Page](jahmia.github.io)
